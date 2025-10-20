@@ -1,0 +1,1 @@
+SELECT * FROM Consulta WHERE paciente_id = 1
